@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3fb4967-d85a-45d7-acee-ea180e181829" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fymKiumjq3HHEFZ4807PwaCCyP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.corp_config">
+    <configuration name="01-get_token_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mine_WechatApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/examples/01-get_token_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AbstractApi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mine_WechatApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/src/AbstractApi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="corp_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mine_WechatApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/config/corp_config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.corp_config" />
+        <item itemvalue="Python.01-get_token_api" />
+        <item itemvalue="Python.AbstractApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3fb4967-d85a-45d7-acee-ea180e181829" name="Default Changelist" comment="" />
+      <created>1597198644503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597198644503</updated>
+      <workItem from="1597198646472" duration="14868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="926" height="700" key="DebuggerActiveHint" timestamp="1597214315097">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="926" height="700" key="DebuggerActiveHint/0.0.2194.1194@0.0.2194.1194" timestamp="1597214315097" />
+    <state width="2133" height="443" key="GridCell.Tab.0.bottom" timestamp="1597215523482">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="443" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597215523482" />
+    <state width="2133" height="443" key="GridCell.Tab.0.center" timestamp="1597215523482">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="443" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597215523482" />
+    <state width="2133" height="443" key="GridCell.Tab.0.left" timestamp="1597215523482">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="443" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597215523482" />
+    <state width="2133" height="443" key="GridCell.Tab.0.right" timestamp="1597215523482">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="443" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597215523482" />
+    <state width="2133" height="366" key="GridCell.Tab.1.bottom" timestamp="1597215364921">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="366" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597215364921" />
+    <state width="2133" height="366" key="GridCell.Tab.1.center" timestamp="1597215364921">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="366" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597215364921" />
+    <state width="2133" height="366" key="GridCell.Tab.1.left" timestamp="1597215364921">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="366" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597215364921" />
+    <state width="2133" height="366" key="GridCell.Tab.1.right" timestamp="1597215364921">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="366" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597215364921" />
+    <state x="371" y="68" key="SettingsEditor" timestamp="1597202656268">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="371" y="68" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1597202656268" />
+    <state x="590" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1597211408382">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="590" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1597211408382" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo/src/AbstractApi.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mine_WechatApi$AbstractApi.coverage" NAME="AbstractApi Coverage Results" MODIFIED="1597200763022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/src" />
+    <SUITE FILE_PATH="coverage/Mine_WechatApi$01_get_token_api.coverage" NAME="01-get_token_api Coverage Results" MODIFIED="1597215411169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/examples" />
+    <SUITE FILE_PATH="coverage/Mine_WechatApi$corp_config.coverage" NAME="corp_config Coverage Results" MODIFIED="1597215523477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/config" />
+  </component>
+</project>
